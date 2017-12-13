@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: libs/commons-logging-1.2.jar libs/commons-codec-1.9.jar li
+ bs/httpclient-4.5.3.jar libs/httpcore-4.4.6.jar libs/jsoup-1.11.2.jar
+Main-Class: Index
+
